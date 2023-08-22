@@ -4,3 +4,5 @@ Starter-Code/
 
 # ! ignore any unnamed starter code
 ETL_Mini_Project_Starter_Code.ipynb
+/.ipynb_checkpoints
+.ipynb_checkpoints/
