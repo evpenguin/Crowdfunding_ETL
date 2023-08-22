@@ -24,4 +24,6 @@ https://static.bc-edx.com/data/web/mars_news/index.html
 - ChromeDriver 
 - Matplotlib 
 - Pandas 
-- Jupyter notebook 
+- Jupyter notebook
+  
+### What i learnt
