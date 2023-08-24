@@ -40,8 +40,8 @@ CREATE TABLE "campaign" (
 
 CREATE TABLE "contacts" (
     "contact_id" INT   NOT NULL,
-    "first_name" VARCHAR   NOT NULL,
-    "last_name" VARCHAR   NOT NULL,
+    "First_Name" VARCHAR   NOT NULL,
+    "Last_Name" VARCHAR   NOT NULL,
     "email" VARCHAR   NOT NULL,
     CONSTRAINT "pk_contacts" PRIMARY KEY (
         "contact_id"
