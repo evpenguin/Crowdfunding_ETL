@@ -25,3 +25,6 @@ The Resources folder contains the starting .xlsx files, and the output .csv file
   
 ### Getting Started
 how to run the work- order of files etc.
+
+### Contributing
+Evangeline Allan, Hajar Hussein, Giang Nguyen
