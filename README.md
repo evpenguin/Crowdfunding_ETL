@@ -1,29 +1,27 @@
-# Crowdfunding_ETL
-This project is part of Module 11 Challenge of Data Analytics Bootcamp. 
+# Crowdfunding ETL - Project 2
+This is group Project 2 of Data Analytics Bootcamp. 
 
 ## Project Description
 ### Problem
-You’re now ready to take on a full web-scraping and data analysis project. You’ve learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. You’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
+Build an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, upload the CSV file data into a Postgres database.
 
-### News Site/File Supplied
-https://static.bc-edx.com/data/web/mars_news/index.html 
+### File Supplied
+The Resources folder contains the starting .xlsx files, and the output .csv files. 
 
 #### Deliverables
-1. Scrape titles and preview text from Mars news articles. 
-2. Scrape and analyse Mars weather data, which exists in a table. 
-
-### Screenshots
-![image](https://github.com/teacher-analyst/web-scrapping-challenge/assets/130710065/9806987b-83de-4dc0-ac00-44009c87d253)
-
+- Create the Category and Subcategory DataFrames
+- Create the Campaign DataFrame
+- Create the Contacts DataFrame
+- Create the Crowdfunding Database
 
 ### Technologies 
 
-- Beautiful soup  
-- html5lib and lxml 
-- Splinter 
-- ChromeDriver 
-- Matplotlib 
-- Pandas 
-- Jupyter notebook
+- Jupyter Notebook
+- Pandas
+- Regular Expressions
+- Numpy
+- Json
+- PostGreSQL
   
-### What i learnt
+### Getting Started
+how to run the work- order of files etc.
