@@ -24,12 +24,12 @@ The Resources folder contains the starting .xlsx files, and the output .csv file
 - PostGreSQL
   
 ### Getting Started
-Clone this repo to your machine. 
-Run EAllan_Giang_Combination.ipynb in Jupyter Notebook.
-Run ETL_Mini_Project_HHussein.ipynb in Jupyter Notebook.
-Create crowdfunding_db in PostGres.
-Run crowdfunding_db_schema.sql in PostGres.
-Run db-try.ipynb in Jupyter Notebook. 
+- Clone this repo to your machine. 
+- Run EAllan_Giang_Combination.ipynb in Jupyter Notebook.
+- Run ETL_Mini_Project_HHussein.ipynb in Jupyter Notebook.
+- Create crowdfunding_db in PostGres.
+- Run crowdfunding_db_schema.sql in PostGres.
+- Run db-try.ipynb in Jupyter Notebook. 
 
 ### Contributing
 Evangeline Allan, Hajar Hussein, Giang Nguyen
